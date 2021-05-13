@@ -2,4 +2,4 @@
 
 NAME=${USER%%.*}
 
-say "Hello I'm $NAME, and I'm a right dick head. lol" 
+say "Hello I'm $NAME, and I'm a weapons grade div. lol" 
